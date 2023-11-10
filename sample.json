@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Godomir",
+                "last": "Kuzmich"
+            },
+            "location": {
+                "street": {
+                    "number": 6569,
+                    "name": "Zolochevska"
+                },
+                "city": "Valki",
+                "state": "Mikolayivska",
+                "country": "Ukraine",
+                "postcode": 73194,
+                "coordinates": {
+                    "latitude": "80.7932",
+                    "longitude": "-103.3172"
+                },
+                "timezone": {
+                    "offset": "-6:00",
+                    "description": "Central Time (US & Canada), Mexico city"
+                }
+            },
+            "email": "godomir.kuzmich@example.com",
+            "login": {
+                "uuid": "373a528b-c5e9-4abf-8154-8740cb0e40df",
+                "username": "goldenelephant580",
+                "password": "avalanch",
+                "salt": "Vt5JPR0r",
+                "md5": "7f5e9e1dd69901c1043e8eb68a022539",
+                "sha1": "a385d27d829ddc5f711c684edb83156db8fb2c5e",
+                "sha256": "791f8aebc70f627604668b20499be4bda41e28dcafdd7594f19da17cf2f0eddc"
+            },
+            "dob": {
+                "date": "1973-01-10T19:56:13.394Z",
+                "age": 50
+            },
+            "registered": {
+                "date": "2007-10-02T23:59:21.567Z",
+                "age": 16
+            },
+            "phone": "(098) S09-2089",
+            "cell": "(097) V93-0128",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/0.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+            },
+            "nat": "UA"
+        }
+    ],
+    "info": {
+        "seed": "10f779baab5d4a8e",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
